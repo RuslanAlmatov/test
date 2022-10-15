@@ -14,7 +14,7 @@ public class Dog {
 
     public void woof() {
         weight = weight - 1;
-        System.out.println("Woof!");
+        System.out.println("Woof!!!");
     }
 
     public void feed(Double amount) {
